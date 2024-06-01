@@ -1,4 +1,4 @@
 # Hola-mundo
-# Aprendiendo a usar GitHub
-# I like strawberry 🍓
-# i love cats 🙀 
+Aprendiendo a usar GitHub
+I like strawberry 🍓
+i love cats 🙀 
